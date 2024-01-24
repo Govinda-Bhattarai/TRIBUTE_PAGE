@@ -1,0 +1,24 @@
+
+figcaption{
+    text-align: center;
+    font: italic;
+    color: deepskyblue;
+}
+h1{
+    text-align: center;
+}
+#image{
+    width: auto;
+    height: auto;
+    display: block;
+    margin:0 auto;
+    max-width: 100%;
+    padding:0 100px;
+}
+section{
+    display: inline-block;
+    text-align: center;
+}
+body{
+    background-color: blanchedalmond;
+}
